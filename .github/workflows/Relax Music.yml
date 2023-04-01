@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Demo Activator
+name: Music Loader
 
 # Controls when the action will run.
 on:
@@ -40,8 +40,8 @@ jobs:
         run: |
           pwd
           cd ./bash
-          chmod +x Demo.sh
-          ./autorun.sh
+          chmod +x Relax-Music.sh
+          ./Relax-Music.sh
 
       - name: Stage the Changes
         run: |
@@ -50,5 +50,5 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git commit -m "links are updated"
+          git commit -m "Music links, are updated!"
           git push
