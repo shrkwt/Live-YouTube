@@ -1,0 +1,27 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#########################################################################
+#     This is a python script to extract HLS links from YouTube         #
+#                      Made by : @gaminglnk                             #
+#                                                                       #
+#                                  >> https://github.com/gaminglnk      #
+#########################################################################
+
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Yellow Brick
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680362555/ei/2_cnZO-7GPTCkwbLjYf4Cw/ip/20.172.44.48/id/dVCibXeM23o.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANm7dkJzreuqWo7bFLQx7uw8bJ-9vbHlAmj1_egiX68NAiEAnqCZQpxd8uq_DTufcxLhUIEm6qJwJQdc-97Sr5RJKCo%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Ibiza Summer Mix 2021
+https://raw.githubusercontent.com/gaminglnk/YouTube-HLS/main/assets/error.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", QT Relax Music
+https://raw.githubusercontent.com/gaminglnk/YouTube-HLS/main/assets/error.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", 4K Nature 24/7- LoungeV Films
+https://raw.githubusercontent.com/gaminglnk/YouTube-HLS/main/assets/error.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", The Good Life
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680362557/ei/3fcnZJ6vBdiCkga09JnwBQ/ip/20.172.44.48/id/m52ynxt1mOo.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJXMb7MDU8ndRQxgymQwYA6TgzYJvTXAcvAEYOiAsWHGAiA3tyvTKdDgijk_cfWL5s3b23D_xCvDadzEbOEpGdhNAw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Best Shuffle Dance Music 2021
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680362557/ei/3fcnZO7LJI3ikgavyYqAAg/ip/20.172.44.48/id/qWf-FPFmVw0.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIU8vQF7tTvEq_Ag-8ARwI4h1Me4IqMGAM-4CuXW51RoAiEAl-f_5UUvV3UoSSLspcKqndZG6WVpv51bGs5IwKbHYwI%3D/file/index.m3u8
