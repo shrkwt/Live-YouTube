@@ -1,11 +1,11 @@
 # This is a basic workflow to help you get started with Actions
 
-name: M3U generator
+name: Demo Activator
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   schedule:
-    - cron: '0 0/3 * * *'
+    - cron: "0 0/3 * * *"
 
   pull_request:
     branches:
@@ -30,24 +30,25 @@ jobs:
       #- name: Run a one-line script
       #  run: echo testing!
 
-      # Runs a set of commands using the runners shell 
-      - name: config
+      # Runs a set of commands using the runners shell
+      - name: Setup Config
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
 
-      - name: Main
+      - name: Main Python
         run: |
           pwd
-          chmod +x autorun.sh
+          cd ./bash
+          chmod +x Demo.sh
           ./autorun.sh
 
-      - name: git add
+      - name: Stage the Changes
         run: |
           git add -A
           ls -la
 
-      - name: commit & push
+      - name: Commit & Push
         run: |
           git commit -m "links are updated"
           git push
