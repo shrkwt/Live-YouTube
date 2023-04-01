@@ -1,0 +1,45 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+Sky News | News | |
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+NDTV Profit | News | |
+https://www.youtube.com/watch?v=GPKXF3mzAlU
+
+NDTV 24x7 | News | |
+https://www.youtube.com/watch?v=WB-y7_ymPJ4
+
+NDTV India | News | |
+https://www.youtube.com/watch?v=MN8p-Vrn6G0
+
+IndiaTV | News | |
+https://www.youtube.com/watch?v=Xmm3Kr5P1Uw
+
+Aaj Tak | News | |
+https://www.youtube.com/watch?v=Nq2wYlWFucg
+
+Ibiza Summer Mix 2021 | Music | |
+https://www.youtube.com/watch?v=GnYNHbq24H0
+
+QT Relax Music | Music | |
+https://www.youtube.com/watch?v=da8MqCnF1mQ
+
+4K Nature 24/7- LoungeV Films | Music | |
+https://www.youtube.com/watch?v=2CD9aEjFZwU
+
+The Good Life | Music | |
+https://www.youtube.com/@TheGoodLiferadio/live
+
+Best Shuffle Dance Music 2021 | Music | |
+https://www.youtube.com/watch?v=qWf-FPFmVw0
+
+ABP NEWS | Hindi | |
+https://www.youtube.com/watch?v=odmHZVWb7ws
+
+Bharat Samachar | Hindi | |
+https://www.youtube.com/watch?v=XzXhudlGtOs
+
+ZeeNews | Hindi | |
+https://www.youtube.com/@zeenews/live
