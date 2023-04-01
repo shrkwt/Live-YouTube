@@ -40,8 +40,8 @@ jobs:
         run: |
           pwd
           cd ./bash
-          chmod +x Relax-Music.sh
-          ./Relax-Music.sh
+          chmod +x Music.sh
+          ./Music.sh
 
       - name: Stage the Changes
         run: |

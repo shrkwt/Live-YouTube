@@ -46,7 +46,7 @@ def grab(url):
 print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
 print(banner)
 #s = requests.Session()
-with open('../channels/Relax-Music.txt') as f:
+with open('../channels/Music.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
