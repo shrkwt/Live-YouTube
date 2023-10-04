@@ -1,13 +1,5 @@
 <a href="https://www.youtube.com"><img align="right" src="youtube-icon.png" width="48px" height="48px"></a>
 
-<a href="https://github.com/ZazerConer/YouTube-to-M3U8/actions/workflows/beinsports-haber.yml">
-<img src="https://badgen.net/badge/beIN SPORTS HABER/Status/green?icon=github">
-</a>
-
-<a href="https://github.com/ZazerConer/YouTube-to-M3U8/actions/workflows/BernamaTV.yml">
-<img src="https://badgen.net/badge/BernamaTV/Status/green?icon=github">
-</a>
-
 <br>
 <hr>
 
